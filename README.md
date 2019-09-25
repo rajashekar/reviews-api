@@ -52,13 +52,14 @@ curl -v -H 'Content-type: application/json' \
     -d '{"name": "iPhone", "description": "Phone with i", "price": "1000"}'
 ```
 
+```
 mysql> select * from product;
 +----+--------+--------------+-------+
 | ID | NAME   | DESCRIPTION  | PRICE |
 +----+--------+--------------+-------+
 |  1 | iPhone | Phone with i |  1000 |
 +----+--------+--------------+-------+
-1 row in set (0.00 sec)
+```
 
 ```
 curl localhost:8080/products/1
