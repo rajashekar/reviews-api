@@ -1,5 +1,5 @@
 # Reviews API 
-This Project is done as part of Udacity Java developer course. The purpose of the project is to understand the concepts of Spring boot application, JDBC with MySQL, Spring Data JPA, test cases using DataJpaTest.
+The purpose of the project is to understand the concepts of Spring boot application, JDBC with MySQL, Spring Data JPA, test cases using DataJpaTest.
 
 ## Pre-requisites
 MySQL needs to be installed and configured. Instructions provided separately.
